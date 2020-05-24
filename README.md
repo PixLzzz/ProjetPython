@@ -1,2 +1,2 @@
 # PythonProject
-Python Project 05/20 w V.B. 
+Python Project with Vivien Boucher. School work.
